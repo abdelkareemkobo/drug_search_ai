@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "drug_search_ai"
+  site-url: "https://abdelkareemkobo.github.io/drug_search_ai"
+  description: "Semantic Search Engine on Drugs dataset to help doctors find relative drugs using OCR,DL and Vector databses"
+  repo-branch: master
+  repo-url: "https://github.com/abdelkareemkobo/drug_search_ai"
